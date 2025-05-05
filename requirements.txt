@@ -1,0 +1,8 @@
+sounddevice
+scipy
+python-dotenv
+vosk
+elevenlabs
+google-genai
+pydub
+simpleaudio
