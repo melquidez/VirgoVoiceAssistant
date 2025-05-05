@@ -99,8 +99,6 @@ Press `Ctrl+C` anytime to stop the assistant gracefully.
 
 ---
 
----
-
 ## TODO
 
 - [ ] Connect to esp32 dev board
